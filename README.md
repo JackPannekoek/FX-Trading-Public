@@ -1,6 +1,23 @@
 # FX-Trading-Public
 Public copy of private internal EA
 
+Project overview
+To Be Added
+
+Architecture
+To Be Added
+
+Governance
+To Be Added
+
+Current status
+To Be Added
+
+Repository layout
+To Be Added
+
+Agent Instructions
+
 FXD Adaptive EA - AI Agent Instructions
 Purpose
 This repository contains the FXD Adaptive EA research project.
