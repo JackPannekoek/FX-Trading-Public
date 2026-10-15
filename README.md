@@ -18,6 +18,19 @@ To Be Added
 
 Agent Instructions
 
+
+**Authoritative Source Rules**
+Priority order:
+
+Latest MQ4 source
+Latest test results
+Logs
+Recovery context
+Historical discussion
+Where conflicts occur, actual source code and test evidence take precedence.
+
+
+
 FXD Adaptive EA - AI Agent Instructions
 Purpose
 This repository contains the FXD Adaptive EA research project.
