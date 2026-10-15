@@ -20,6 +20,7 @@ Agent Instructions
 
 
 **Authoritative Source Rules**
+
 Priority order:
 
 Latest MQ4 source
