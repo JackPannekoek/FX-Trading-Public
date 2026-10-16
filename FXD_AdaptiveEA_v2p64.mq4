@@ -1,4 +1,3 @@
-
 //+------------------------------------------------------------------+
 //| FXD_AdaptiveEA_v2p64.mq4                                          |
 //| Initial truly-adaptive architecture scaffold                     |
